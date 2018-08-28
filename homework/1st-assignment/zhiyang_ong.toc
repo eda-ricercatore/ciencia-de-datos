@@ -1,7 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {3}{General Background}{4}{0}{1}
-\beamer@sectionintoc {4}{Summary}{7}{0}{2}
-\beamer@sectionintoc {5}{Required Components and Software Applications/Services}{9}{0}{3}
-\beamer@sectionintoc {6}{Schematic for Hardware Implementation}{11}{0}{4}
-\beamer@sectionintoc {7}{Source Code for Software Implementation}{13}{0}{5}
-\beamer@sectionintoc {8}{Making and Playing the Memory Game}{20}{0}{6}
